@@ -13,3 +13,6 @@ https://datasource.kapsarc.org/explore/dataset/emissions_agriculture_energy_e_al
 
 Global Oil & Gas Demand
 https://datasource.kapsarc.org/explore/dataset/iea-oil-market-report-2001-2016/information/?disjunctive.frequency&disjunctive.region_name&disjunctive.indicator_name
+
+Agriculture & Farming Specific emissions
+https://datasource.kapsarc.org/explore/dataset/agri-environmental-indicators-emissions-by-sector/table/?disjunctive.area&disjunctive.item&disjunctive.element&sort=-item
