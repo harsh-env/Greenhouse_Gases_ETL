@@ -1,10 +1,19 @@
-# Green House Gases (GHG) Analysis
+# Green House Gases (GHG) Analysis Dataset
 
 Global warming is a nationwide issue that affects the quality of life on Earth. Climate change is a direct result of an increase in greenhouse gases. Greenhouse gases are a mixture of Co2, Ch4, N2o, and other gases prevalent on Earth. They are known to trap heat in the atmosphere causing the planet to become warmer over time. When comparing the different natural gases that cause global warming, they all have different effects on the warming of Earth. 
+The figure below compares the increase in Greenhouse gases over the years and provides the source of these gases. 
 
 ![](https://github.com/harsh-env/Project2a-Database/blob/main/outputs/Proposal1.JPG)
 
-Our datasets focus on comparing different types of greenhouse gases in order to compare them to Co2. Two datasets from 1990 to 2019 are used to identify and display the specific sources of emissions within agriculture and farming. A third dataset displays global oil and gas demand which will be used to vaguely show the emission of Co2. Our analysis will compare GHG emissions in different countries, identify total emissions per year, and identify which gases are most prevalent. 
+Apparently, it was found that these gases have differing global warming potentials when compared with CO2 (as CO2 is a direct by-product of burning O&G) – viz:
+1. CH4 (Methane) molecule – 25 times the global warming potential of a CO2 molecule
+2. N2O (Nitrous Oxide) - 298 times the global warming potential of a CO2 molecule
+3. HFC (Hydrofluorocarbons) – 1430-14800 times the global warming potential of a CO2 molecule
+4. Sulfur Hexafluoride – 22800 times the global warming potential of a CO2 molecule
+
+CH4, N2O and other gases like HCF etc. are a by-product of agriculture & Farming and are not directly related to burning of fossil fuels.
+
+Our datasets focus on comparing different types of greenhouse gases in order to compare them to Co2. Two datasets from 1990 to 2019 are used to identify and display the specific sources of emissions within agriculture and farming. A third dataset displays global oil and gas demand which will be used to vaguely show the emission of CO2 that could be used for comparison purposes. Our analysis will compare GHG emissions in different countries, identify total emissions per year, and identify which gases are most prevalent. 
 
 # Datasets
 
