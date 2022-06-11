@@ -5,7 +5,8 @@ The figure below compares the increase in Greenhouse gases over the years and pr
 
 ![](https://github.com/harsh-env/Project2a-Database/blob/main/outputs/Proposal1.JPG)
 
-Apparently, it was found that these gases have differing global warming potentials when compared with CO2 (as CO2 is a direct by-product of burning O&G) – viz:
+It was found that these gases have differing global warming potentials when compared with CO2 (as CO2 is a direct by-product of burning O&G) – viz:
+
 1. CH4 (Methane) molecule – 25 times the global warming potential of a CO2 molecule
 2. N2O (Nitrous Oxide) - 298 times the global warming potential of a CO2 molecule
 3. HFC (Hydrofluorocarbons) – 1430-14800 times the global warming potential of a CO2 molecule
@@ -52,8 +53,8 @@ After connecting the data we started the transformation process which included c
 - Data had to be normarlized when pulled with pandas. Only "Fields" column was required. 
 ![](https://github.com/harsh-env/Project2a-Database/blob/main/outputs/normalize_data.JPG)
 - The database for Agri and Global emissions listed more than 250 countries or areas. 
-- For simplicity and representation purposes, we picked a list of 50 countries with relatively higher GDP and population. These countries are picked from from all the continents and geographical areas which would be a better dataset than total. 
-- To clean the data, we dropped columns with NA, we renamed and organized required columns. 
+- For simplicity and representation purposes, we picked a list of 50 countries with relatively higher GDP and population. These countries were chose from all the continents and geographical areas.
+- To clean the data, we dropped columns with NA, renamed and organized required columns. 
 - Some of the unwanted columnns were deleted and a representative DataFrame was created as shown in SQL database snapshots. 
 - For the Agriculatural Emissions Database 2 separate dataframes were made. This was because the dataframe had percent emissions and actual values of emissions from all sectors listed in the same JSON. For user simplicity and usage the data was split into
     - Agricultural Emissions % (percent values)
