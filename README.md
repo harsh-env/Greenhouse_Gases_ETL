@@ -1,7 +1,7 @@
 # Green House Gases (GHG) Analysis Dataset
 
 Global warming is an Earthly issue that affects the quality of life. Climate change is a direct result of an increase in greenhouse gases. Greenhouse gases are a mixture of Co2, Ch4, N2o, and other gases prevalent on Earth. They are known to trap heat in the atmosphere causing the planet to become warmer over time. When comparing the different natural gases that cause global warming, they all have different effects on the warming of Earth. 
-The figure below compares the increase in Greenhouse gases over the years and provides the source of these gases. 
+The figure below compares the increase in Greenhouse gases over the years and provides a list of potential sources. 
 
 ![](https://github.com/harsh-env/Project2a-Database/blob/main/outputs/Proposal1.JPG)
 
