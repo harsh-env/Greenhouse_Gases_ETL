@@ -39,10 +39,10 @@ After connecting the data we started the transformation process which included c
 
 Finally, the data frames that were created were connected to the PGAdmin. 
 
-
-
-
-# Results 
-
 SQL Database
 ![](https://github.com/harsh-env/Project2a-Database/blob/main/outputs/global_agriculture_%25emissions.JPG)
+
+# Instructions
+
+https://drive.google.com/drive/folders/1EV7PyG_GSjAyiml59T8MzWpfgdekt62u?usp=sharing
+
