@@ -16,7 +16,7 @@ CH4, N2O and other gases like HCF etc. are a by-product of agriculture & Farming
 Our datasets focus on comparing different types of greenhouse gases in order to compare them to Co2. Two datasets from 1990 to 2019 are used to identify and display the specific sources of emissions within agriculture and farming. A third dataset displays global oil and gas demand which will be used to vaguely show the emission of CO2 that could be used for comparison purposes. Our analysis will compare GHG emissions in different countries, identify total emissions per year, and identify which gases are most prevalent. 
 
 # Extract
-
+## Data Source 
 The data is extracted from the three data sets (with links) below. 
 Several data sets ranging from CSV's to JSON files were researched for this topic in Kaggle and data.world. 
 Data from datasource.kapsarc.org was used for the project as it was more comprehensive from some other one's we looked at.  
@@ -36,6 +36,17 @@ https://drive.google.com/drive/folders/1EV7PyG_GSjAyiml59T8MzWpfgdekt62u?usp=sha
 Below is a snapshot of how the data was structured on datasource.kapsarc.org
 
 ![](https://github.com/harsh-env/Project2a-Database/blob/main/outputs/Agri_emissions_Dataset.JPG)
+
+## Using Jupyter Notebook file 
+
+Three separate notebooks are made to process the 3 datasets. 
+- Global Greenhouse Emission - "global_ghg.ipynb"
+- Agriculture & Farming Specific emissions - "agri_emissions.ipynb"
+- Global Oil & Gas Demand - "World_oil_demand_supply.ipynb"
+JSON file Structure example for Agri_emissions: 
+
+![](https://github.com/harsh-env/Project2a-Database/blob/main/outputs/JSON_Schema.JPG)
+
 
 # Transform
 
