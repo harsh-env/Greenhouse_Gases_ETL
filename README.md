@@ -84,6 +84,13 @@ After connecting the data we started the transformation process which included c
 
 # Instructions
 
-Download the datasets directly from the links below or use the link to Google drive below 
-The user can add to the list of country in code which he would like to additionally analyze.  
-- A list of all countries in Agri_emissions database is kept in output folder. 
+1. Download the datasets directly from the links below or use the link to Google drive which stores the database.
+    https://drive.google.com/drive/folders/1EV7PyG_GSjAyiml59T8MzWpfgdekt62u?usp=sharing
+2. Database user can add to the list of country in code which he would like to additionally analyze.  
+    - List of "Selected Country's" & " All countries in Agriculture emissions Database" are kept in the main repo folder
+    - List of "Common countrye's" between "emissions database" & " World OIl Demand/supply" is kept in "Outputs" folder. File - "common_cntry_Woil_emissions_data.csv"
+    - List of all countries in "World oil Demand/supply" is kept in output folder. File - "worldoildata_allcountries.csv"
+3. Database user can access / modify category or Industry sector by using the stored files in Output Folder. These files list all the categories and industry/sector in the 3 databases. 
+    - Industry/Sector used in Global Emissions database - File: "global_emis_sector.csv"
+    - Industry/Sector used in Agricultural Emissions Database - File: "Agri_emis_by_Sector.csv"
+    - Various categories listed in World OIl Demand/Supply Database: File: "worldoildata_Querytype.csv"
