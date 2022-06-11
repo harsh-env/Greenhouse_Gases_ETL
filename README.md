@@ -68,10 +68,18 @@ After connecting the data we started the transformation process which included c
 
 # Load
 
-- The QucikDBD-exp_1.sql file provides a SCHEMA used for creating SQL Tables in Database named Global_Emissions" 
+- The QucikDBD-exp_1.sql file provides a SCHEMA used for creating SQL Tables in Database named Global_Emissions".
+- Python was connected to SQL using create_engine imprted from sqlalchemy
+- Below is a snapshot of the how the dataframes were loaded onto SQL tables. The Table_names had to be modified to suit SQL structure and errors
 
-SQL Database
+![](https://github.com/harsh-env/Project2a-Database/blob/main/outputs/Connection_to_SQL.JPG)
+
+### SQL Database
 ![](https://github.com/harsh-env/Project2a-Database/blob/main/outputs/global_agriculture_%25emissions.JPG)
+![](https://github.com/harsh-env/Project2a-Database/blob/main/outputs/global_agriculture_actualemissions.JPG)
+![](https://github.com/harsh-env/Project2a-Database/blob/main/outputs/global_greenhouse_emssions_all.JPG)
+![](https://github.com/harsh-env/Project2a-Database/blob/main/outputs/global_oil_demand.JPG)
+![](https://github.com/harsh-env/Project2a-Database/blob/main/outputs/global_oil_data_iea.JPG)
 
 # Instructions
 
