@@ -16,3 +16,8 @@ https://datasource.kapsarc.org/explore/dataset/iea-oil-market-report-2001-2016/i
 
 Agriculture & Farming Specific emissions
 https://datasource.kapsarc.org/explore/dataset/agri-environmental-indicators-emissions-by-sector/table/?disjunctive.area&disjunctive.item&disjunctive.element&sort=-item
+
+# Results 
+
+SQL Database
+![](https://github.com/harsh-env/Project2a-Database/blob/main/outputs/global_agriculture_%25emissions.JPG)
