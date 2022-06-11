@@ -9,13 +9,27 @@ Our datasets focus on comparing different types of greenhouse gases in order to 
 Global Greenhouse Emission
 https://datasource.kapsarc.org/explore/dataset/emissions_agriculture_energy_e_all_data_norm/table/?disjunctive.item&disjunctive.element
 
-
-
 Global Oil & Gas Demand
 https://datasource.kapsarc.org/explore/dataset/iea-oil-market-report-2001-2016/information/?disjunctive.frequency&disjunctive.region_name&disjunctive.indicator_name
 
 Agriculture & Farming Specific emissions
 https://datasource.kapsarc.org/explore/dataset/agri-environmental-indicators-emissions-by-sector/table/?disjunctive.area&disjunctive.item&disjunctive.element&sort=-item
+
+
+# Extract
+
+First, the data is extracted from the three data sets linked above. Several data sets ranging from CSV's to JSON files were researched by the developers. Due to a lack of data on global emissions we decided to use data from datasource.kapsarc.org 
+
+# Transform
+
+After connecting the data we started the transformation process which included creating data frames and cleaning the data. Below you find an example code of us deleting null values, columns and renaming columns in order to better understand the data. 
+
+# Load
+
+Finally, the data frames that were created were connected to the PGAdmin. 
+
+
+
 
 # Results 
 
