@@ -68,7 +68,7 @@ After connecting the data we started the transformation process which included c
 
 # Load
 
-Finally, the data frames that were created were connected to the PGAdmin. 
+- The QucikDBD-exp_1.sql file provides a SCHEMA used for creating SQL Tables in Database named Global_Emissions" 
 
 SQL Database
 ![](https://github.com/harsh-env/Project2a-Database/blob/main/outputs/global_agriculture_%25emissions.JPG)
