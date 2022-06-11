@@ -60,9 +60,11 @@ After connecting the data we started the transformation process which included c
     - Agricultural Emissions % (percent values)
     - Agriculural Emissions Actual values (Expressed in Kilotonnes) 
  - In World oil/Demand database, the "Date" column was split into year and month. Data type of these two additional columns was changed to int. 
- - The world oil/demand database 
-
-
+ - The world oil/demand database was split into 2 separate dataframes loaded into SQL. 
+    - First DF only lists the "Demand" for O&G as it presentative of the overall economic health of the countries adding to the emissions. 
+    - The Second Dataframe is also a cleaned, organized and renamed and contains all the data categories including Diesel, Oil, Gas etc. supply and demand data. 
+- A separate Jupyter notebook was made to find the countries that are common between the "Selected countries from Emissions Database" and "World oil Demand/Supply" database. The   inner merge provides a list of 24 countries saved in "Outputs" folder for database user. 
+- Some of the columns had to be renamed for loading into Postgresql due to errors. The "QuickDBD-exp_1.sql" provides the Schema details. 
 
 # Load
 
