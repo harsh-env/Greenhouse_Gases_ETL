@@ -58,7 +58,9 @@ After connecting the data we started the transformation process which included c
 - Some of the unwanted columnns were deleted and a representative DataFrame was created as shown in SQL database snapshots. 
 - For the Agriculatural Emissions Database 2 separate dataframes were made. This was because the dataframe had percent emissions and actual values of emissions from all sectors listed in the same JSON. For user simplicity and usage the data was split into
     - Agricultural Emissions % (percent values)
-    - Agriculural Emissions Actual values (Expressued in Kilotonnes) 
+    - Agriculural Emissions Actual values (Expressed in Kilotonnes) 
+ - In World oil/Demand database, the "Date" column was split into year and month. Data type of these two additional columns was changed to int. 
+ - The world oil/demand database 
 
 
 
