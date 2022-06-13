@@ -22,7 +22,7 @@ Two datasets from 1990 to 2019 are used to identify the specific sources of emis
 ## Data Source 
 The data is extracted from the three data sets (with links) below. 
 Several data sets ranging from CSV's to JSON files were researched for this topic in Kaggle and data.world. 
-Data from datasource.kapsarc.org was used for the project as it was more comprehensive when compared with teh others in the time alloted.  
+Data from datasource.kapsarc.org was used for the project as it was more comprehensive when compared with the other datasets.  
 
 Global Greenhouse Emission was extracted as JSON file 
 https://datasource.kapsarc.org/explore/dataset/emissions_agriculture_energy_e_all_data_norm/table/?disjunctive.item&disjunctive.element
